@@ -11,7 +11,7 @@ I found it most useful when searching by time posted and a company has posted 20
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/charxii/LinkedIn-Company-Filter
    ```
 
 2. **Enable Developer Mode in your browser:**
